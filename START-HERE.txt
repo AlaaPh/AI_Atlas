@@ -1,0 +1,32 @@
+AI ATLAS — PHD RESEARCH TOOL DIRECTORY
+Research snapshot: 20 September 2026
+
+1. Download AI-Tools-Dashboard.html from this Drive folder.
+2. Open it in a modern desktop browser. No installation is needed.
+3. Start with the PhD & research view and research-task shortcuts.
+4. Use search and filters to separate open/closed, free/paid, and local/cloud.
+5. Click Explore for explanations, official evidence, and YouTube/tutorial links.
+6. Use Local model rankings and choose a hardware tier.
+
+The layout adapts to phones, tablets, and computers. For mobile browsers,
+a hosted copy is easiest; support for downloaded HTML varies by device.
+The GitHub repository currently stores the project source, not a live site.
+
+Repository: https://github.com/AlaaPh/AI_Atlas
+
+94 entries / 14 categories / 90 direct video links / 12 ranked model choices.
+90 videos passed live YouTube metadata checks; 4 written tutorial pages loaded.
+Titles/content were checked for relevance on 20 September 2026.
+Full video playback and instructional accuracy were not tested.
+Every entry also has a targeted YouTube search; those results are not verified.
+Some videos cover older versions or are in Spanish; see each entry’s notes.
+This is a curated directory, not an exhaustive list of every AI tool.
+
+Free local software/weights do not include hardware, electricity, or paid APIs.
+Open-source code, open weights, and proprietary services have separate labels.
+Rankings are editorial recommendations within tiers, not measured benchmarks.
+No one local model fits every device. Memory figures are planning estimates.
+
+Favorites stay in the current browser; they do not sync to Drive or GitHub.
+Use Export favorites for a backup. Sources and review notes are in each card.
+The JSON file is the editable directory. README.md explains updates and rebuilding.

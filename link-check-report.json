@@ -1,0 +1,850 @@
+{
+  "checkedAt": "2026-09-19T22:54:03Z",
+  "method": "YouTube public oEmbed metadata and tutorial HTTP GET with page-title inspection; not full video playback. HTTP success does not verify instructional accuracy or region-specific playback.",
+  "videos": [
+    {
+      "name": "ChatGPT",
+      "url": "https://www.youtube.com/watch?v=JTxsNm9IdYU",
+      "status": 200,
+      "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+      "author": "Adrian Twarog",
+      "authorUrl": "https://www.youtube.com/@AdrianTwarog",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Claude",
+      "url": "https://www.youtube.com/watch?v=r2vYObllqJU",
+      "status": 200,
+      "title": "Claude AI Tutorial for Beginners (Step-by-Step)",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://www.youtube.com/watch?v=PDMcpthR88U",
+      "status": 200,
+      "title": "How to Use Google Gemini Al (Full Tutorial)",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://www.youtube.com/watch?v=edbKMwddwBU",
+      "status": 200,
+      "title": "Perplexity: Beginner to Pro in 27 Minutes",
+      "author": "Ali H. Salem",
+      "authorUrl": "https://www.youtube.com/@Ali.H.Salem1",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Mistral Vibe (formerly Le Chat)",
+      "url": "https://www.youtube.com/watch?v=Kcm6GyJSpG4",
+      "status": 200,
+      "title": "Mistral AI's ChatGPT - Le Chat - How to Use Tutorial",
+      "author": "United Top Tech",
+      "authorUrl": "https://www.youtube.com/@unitedtoptech6288",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Elicit",
+      "url": "https://www.youtube.com/watch?v=rJJPS-EvNfk",
+      "status": 200,
+      "title": "How to Use Elicit AI, Literature Reviews + More: Beginner Tutorial and Research Tips!",
+      "author": "Andy Stapleton",
+      "authorUrl": "https://www.youtube.com/@DrAndyStapleton",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Consensus",
+      "url": "https://www.youtube.com/watch?v=UMxAlp0TPVg",
+      "status": 200,
+      "title": "Consensus AI Step-By-Step: The Fastest Way To Do Evidence-Based Research",
+      "author": "Andy Stapleton",
+      "authorUrl": "https://www.youtube.com/@DrAndyStapleton",
+      "result": "metadata_available"
+    },
+    {
+      "name": "ResearchRabbit",
+      "url": "https://www.youtube.com/watch?v=J1YXarr8U0A",
+      "status": 200,
+      "title": "How to get started with ResearchRabbit",
+      "author": "ResearchRabbit",
+      "authorUrl": "https://www.youtube.com/@researchrabbitapp",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Connected Papers",
+      "url": "https://www.youtube.com/watch?v=RWu5eA-j7yU",
+      "status": 200,
+      "title": "First Time User's Guide to Connected Papers for Research",
+      "author": "Andy Stapleton",
+      "authorUrl": "https://www.youtube.com/@DrAndyStapleton",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Semantic Scholar",
+      "url": "https://www.youtube.com/watch?v=FUVxIIfXSUo",
+      "status": 200,
+      "title": "Semantic Scholar 101: Search",
+      "author": "Semantic Scholar",
+      "authorUrl": "https://www.youtube.com/@semanticscholar7151",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Scite",
+      "url": "https://www.youtube.com/watch?v=p6CCbemp0tY",
+      "status": 200,
+      "title": "AI for Academic Research - Meet Scite.ai",
+      "author": "Scite",
+      "authorUrl": "https://www.youtube.com/@sciteai",
+      "result": "metadata_available"
+    },
+    {
+      "name": "SciSpace",
+      "url": "https://www.youtube.com/watch?v=ABmoJunVFRY",
+      "status": 200,
+      "title": "Getting Started with SciSpace: A Complete Step-by-Step Walkthrough for Researchers",
+      "author": "SciSpace",
+      "authorUrl": "https://www.youtube.com/@scispace_",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Gemini Notebook (formerly NotebookLM)",
+      "url": "https://www.youtube.com/watch?v=uSVBfyHBiDU",
+      "status": 200,
+      "title": "How to Use Google NotebookLM (Full Tutorial)",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Cursor",
+      "url": "https://www.youtube.com/watch?v=2aldTxnbNt0",
+      "status": 200,
+      "title": "Cursor 2.0 Tutorial for Beginners (Full Course)",
+      "author": "Riley Brown",
+      "authorUrl": "https://www.youtube.com/@rileybrownai",
+      "result": "metadata_available"
+    },
+    {
+      "name": "GitHub Copilot",
+      "url": "https://www.youtube.com/watch?v=n0NlxUyA7FI",
+      "status": 200,
+      "title": "Getting started with GitHub Copilot | Tutorial",
+      "author": "GitHub",
+      "authorUrl": "https://www.youtube.com/@GitHub",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Codex",
+      "url": "https://www.youtube.com/watch?v=pMOMqZJYJ5c",
+      "status": 200,
+      "title": "How to Use OpenAI Codex | Codex Tutorial 2026 | upGrad #codex",
+      "author": "upGrad",
+      "authorUrl": "https://www.youtube.com/@upGrad_edu",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Claude Code",
+      "url": "https://www.youtube.com/watch?v=gh2_PhgZGsM",
+      "status": 200,
+      "title": "Claude Code for Beginners Tutorial [Full Course]",
+      "author": "freeCodeCamp.org",
+      "authorUrl": "https://www.youtube.com/@freecodecamp",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Aider",
+      "url": "https://www.youtube.com/watch?v=h0AutzWuSAY",
+      "status": 200,
+      "title": "AIDER: NEW GPT-Engineer | AI Coding Assistant | Installation & Tutorial",
+      "author": "Prompt Engineering",
+      "authorUrl": "https://www.youtube.com/@engineerprompt",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Cline",
+      "url": "https://www.youtube.com/watch?v=ixPr_gQgH_w",
+      "status": 200,
+      "title": "Cline v3.18 HUGE UPDATE: Fully FREE Autonomous AI Coding Agent! Gemini CLI + Claude Code!",
+      "author": "WorldofAI",
+      "authorUrl": "https://www.youtube.com/@intheworldofai",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Continue",
+      "url": "https://www.youtube.com/watch?v=18niVtczoUs",
+      "status": 200,
+      "title": "VS Code with FREE Local AI - GitHub Copilot vs Continue.dev REVIEW & Setup Guide",
+      "author": "xCreate",
+      "authorUrl": "https://www.youtube.com/@xcreate",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Replit",
+      "url": "https://www.youtube.com/watch?v=KW0RKUe8kSg",
+      "status": 200,
+      "title": "Lesson 1: Build your First App with Replit",
+      "author": "Replit",
+      "authorUrl": "https://www.youtube.com/@replit",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Lovable",
+      "url": "https://www.youtube.com/watch?v=y4IJbZ1E1DM",
+      "status": 200,
+      "title": "Lovable AI Tutorial for Beginners - Build Your First App",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "v0",
+      "url": "https://www.youtube.com/watch?v=d4U_lnJLG_o",
+      "status": 200,
+      "title": "V0 Vercel AI Tutorial | Build A Web App Using AI for Beginners (Step by Step)",
+      "author": "Decoding Product with Maria",
+      "authorUrl": "https://www.youtube.com/@DecodingProductWithMaria",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Ollama",
+      "url": "https://www.youtube.com/watch?v=SVnyQjt7BuQ",
+      "status": 200,
+      "title": "Local AI Made SIMPLE: LM Studio & Ollama + Web UI - How To Use",
+      "author": "Dev It",
+      "authorUrl": "https://www.youtube.com/@DevItWithMe",
+      "result": "metadata_available"
+    },
+    {
+      "name": "LM Studio",
+      "url": "https://www.youtube.com/watch?v=SVnyQjt7BuQ",
+      "status": 200,
+      "title": "Local AI Made SIMPLE: LM Studio & Ollama + Web UI - How To Use",
+      "author": "Dev It",
+      "authorUrl": "https://www.youtube.com/@DevItWithMe",
+      "result": "metadata_available"
+    },
+    {
+      "name": "llama.cpp",
+      "url": "https://www.youtube.com/watch?v=eYjO6e87I1Q",
+      "status": 200,
+      "title": "Instala una IA LOCAL con llama.cpp en tu PC (Tutorial paso a paso)",
+      "author": "AlehandoroVR",
+      "authorUrl": "https://www.youtube.com/@AlehandoroVR",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Open WebUI",
+      "url": "https://www.youtube.com/watch?v=SVnyQjt7BuQ",
+      "status": 200,
+      "title": "Local AI Made SIMPLE: LM Studio & Ollama + Web UI - How To Use",
+      "author": "Dev It",
+      "authorUrl": "https://www.youtube.com/@DevItWithMe",
+      "result": "metadata_available"
+    },
+    {
+      "name": "AnythingLLM",
+      "url": "https://www.youtube.com/watch?v=kxpRhgXVbFk",
+      "status": 200,
+      "title": "The SIMPLEST Way To Run Local AI Agents! (AnythingLLM Agent Demo)",
+      "author": "Bijan Bowen",
+      "authorUrl": "https://www.youtube.com/@Bijanbowen",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Jan",
+      "url": "https://www.youtube.com/watch?v=m41vLvvz0Sc",
+      "status": 200,
+      "title": "How to Run AI Models Locally with Jan AI | Install Qwen & DeepSeek AI",
+      "author": "AI2Play",
+      "authorUrl": "https://www.youtube.com/@AI2Play",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Grammarly",
+      "url": "https://www.youtube.com/watch?v=5LjKA1eLQ_0",
+      "status": 200,
+      "title": "How to Use Grammarly",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "DeepL",
+      "url": "https://www.youtube.com/watch?v=5gbzA0xH-pg",
+      "status": 200,
+      "title": "How to Use DeepL Translator (2025 Tutorial)",
+      "author": "Help Me Solve",
+      "authorUrl": "https://www.youtube.com/@HelpMeSolve",
+      "result": "metadata_available"
+    },
+    {
+      "name": "QuillBot",
+      "url": "https://www.youtube.com/watch?v=8_Xfp6liyoc",
+      "status": 200,
+      "title": "Learn how to use QuillBot's free paraphrasing AI — demo and tutorial",
+      "author": "Quillbot",
+      "authorUrl": "https://www.youtube.com/@Quillbot",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Notion AI",
+      "url": "https://www.youtube.com/watch?v=SnbMRRZ2_Ag",
+      "status": 200,
+      "title": "Notion AI Tutorial: Is It Really Worth It?",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Midjourney",
+      "url": "https://www.youtube.com/watch?v=rSOd2-SBsXQ",
+      "status": 200,
+      "title": "The ONLY MidJourney Tutorial Beginners Need - Full Crash Course",
+      "author": "100x Engineers",
+      "authorUrl": "https://www.youtube.com/@100xEngineers",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Adobe Firefly",
+      "url": "https://www.youtube.com/watch?v=lt4k9lVnS1Y",
+      "status": 200,
+      "title": "Learn How to Use Adobe Firefly | 5 Minute Tutorial | Adobe Creative Cloud",
+      "author": "Adobe Creative Cloud",
+      "authorUrl": "https://www.youtube.com/@AdobeCreativeCloud",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Canva AI",
+      "url": "https://www.youtube.com/watch?v=ytaKk0nOFJ0",
+      "status": 200,
+      "title": "Ultimate Canva AI Tutorial (Everything You Can Do!) Over 15 AI Tools",
+      "author": "Stewart Gauld",
+      "authorUrl": "https://www.youtube.com/@StewartGauld",
+      "result": "metadata_available"
+    },
+    {
+      "name": "ComfyUI",
+      "url": "https://www.youtube.com/watch?v=hl7kwMwkLJU",
+      "status": 200,
+      "title": "How to Use ComfyUI (Step-by-Step Tutorial)",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "InvokeAI",
+      "url": "https://www.youtube.com/watch?v=s4EqQRxRR7k",
+      "status": 200,
+      "title": "InvokeAI - Unified Canvas Basics",
+      "author": "Invoke",
+      "authorUrl": "https://www.youtube.com/@invokeai",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Gamma",
+      "url": "https://www.youtube.com/watch?v=Slr6iP5roLU",
+      "status": 200,
+      "title": "Gamma AI Tutorial: Create Presentations with AI",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Runway",
+      "url": "https://www.youtube.com/watch?v=FqYRkl12ON8",
+      "status": 200,
+      "title": "Runway AI - Tutorial for Beginners in 17 MINUTES !  [ FULL GUIDE ]",
+      "author": "Skills Factory",
+      "authorUrl": "https://www.youtube.com/@bai",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Pika",
+      "url": "https://www.youtube.com/watch?v=F4vZTKOCeds",
+      "status": 200,
+      "title": "Pika 1.0 Complete Guide for Beginners! - Best Free Ai Video Generator",
+      "author": "Tao Prompts",
+      "authorUrl": "https://www.youtube.com/@taoprompts",
+      "result": "metadata_available"
+    },
+    {
+      "name": "HeyGen",
+      "url": "https://www.youtube.com/watch?v=RTmlxuroR50",
+      "status": 200,
+      "title": "How to Use HeyGen in 2026 (Step-by-Step Beginner Tutorial)",
+      "author": "Simon Crowe",
+      "authorUrl": "https://www.youtube.com/@TheSimonCrowe",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Descript",
+      "url": "https://www.youtube.com/watch?v=iOC7tG2DOZU",
+      "status": 200,
+      "title": "How to make tutorial videos with Descript",
+      "author": "Descript",
+      "authorUrl": "https://www.youtube.com/@Descript",
+      "result": "metadata_available"
+    },
+    {
+      "name": "ElevenLabs",
+      "url": "https://www.youtube.com/watch?v=yDTbAxJ3sKI",
+      "status": 200,
+      "title": "How to Use ElevenLabs AI (Complete Beginner Tutorial)",
+      "author": "Kevin Stratvert",
+      "authorUrl": "https://www.youtube.com/@KevinStratvert",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Suno",
+      "url": "https://www.youtube.com/watch?v=qR4BefPvSiI",
+      "status": 200,
+      "title": "Suno Studio Tutorial: A Complete Beginner's Guide (2026)",
+      "author": "Suno Music",
+      "authorUrl": "https://www.youtube.com/@suno",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Otter",
+      "url": "https://www.youtube.com/watch?v=yUxlIDKIHhA",
+      "status": 200,
+      "title": "Otter AI Tutorial: How To Use Otter AI For Beginners (AI Transcribe)",
+      "author": "Tutorials by Manizha & Ryan",
+      "authorUrl": "https://www.youtube.com/@tutorialsbymanizharyan2121",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Fireflies",
+      "url": "https://www.youtube.com/watch?v=uZuFXgNfZmI",
+      "status": 200,
+      "title": "Fireflies AI Overview 2026: Automate Meeting Notes, Transcription & More | Full Product Demo",
+      "author": "Fireflies AI",
+      "authorUrl": "https://www.youtube.com/@firefliesai",
+      "result": "metadata_available"
+    },
+    {
+      "name": "faster-whisper",
+      "url": "https://www.youtube.com/watch?v=AprRmGCTVP8",
+      "status": 200,
+      "title": "Transcribe Audio 4x Faster in Python (faster-whisper Full Guide)",
+      "author": "Generalist Programmer",
+      "authorUrl": "https://www.youtube.com/@generalistprogrammer3233",
+      "result": "metadata_available"
+    },
+    {
+      "name": "whisper.cpp",
+      "url": "https://www.youtube.com/watch?v=yclO67nSufw",
+      "status": 200,
+      "title": "Whisper.cpp - Install Tutorial for Windows",
+      "author": "TheAIHobbyGuy | Get Going Fast",
+      "authorUrl": "https://www.youtube.com/@TheAIHobbyGuy",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Julius AI",
+      "url": "https://www.youtube.com/watch?v=pzf0ZtgX0fs",
+      "status": 200,
+      "title": "Julius AI For Data Analysis | Julius AI Tutorial | How To Use Julius AI? | Julius AI | Simplilearn",
+      "author": "Simplilearn",
+      "authorUrl": "https://www.youtube.com/@SimplilearnOfficial",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Wolfram Alpha",
+      "url": "https://www.youtube.com/watch?v=iYUGqX-qO_8",
+      "status": 200,
+      "title": "Part 1: A Quick Intro to Wolfram|Alpha by Stephen Wolfram (low res)",
+      "author": "WolframAlpha",
+      "authorUrl": "https://www.youtube.com/@WolframAlpha",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Docling",
+      "url": "https://www.youtube.com/watch?v=zSA7ylHP6AY",
+      "status": 200,
+      "title": "What Is Docling? Transforming Unstructured Data for RAG and AI",
+      "author": "IBM Technology",
+      "authorUrl": "https://www.youtube.com/@IBMTechnology",
+      "result": "metadata_available"
+    },
+    {
+      "name": "PaddleOCR",
+      "url": "https://www.youtube.com/watch?v=e827LIWoyGU",
+      "status": 200,
+      "title": "PaddleOCR Text Extraction: Recognize Any Text in Images with Python",
+      "author": "Computer Vision Lab",
+      "authorUrl": "https://www.youtube.com/@computervisionlab2119",
+      "result": "metadata_available"
+    },
+    {
+      "name": "MarkItDown",
+      "url": "https://www.youtube.com/watch?v=UFEVQdJeWeQ",
+      "status": 200,
+      "title": "Microsoft MarkitDown Tutorial: Turn ANY Document into Clean LLM Data in Seconds!",
+      "author": "Coders Academy",
+      "authorUrl": "https://www.youtube.com/@codersacademy5423",
+      "result": "metadata_available"
+    },
+    {
+      "name": "n8n",
+      "url": "https://www.youtube.com/watch?v=4BVTkqbn_tY",
+      "status": 200,
+      "title": "n8n Beginner Course (1/9) - Introduction to Automation",
+      "author": "n8n",
+      "authorUrl": "https://www.youtube.com/@n8n-io",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Make",
+      "url": "https://www.youtube.com/watch?v=XguXU3NjnpE",
+      "status": 200,
+      "title": "Getting Started with AI Automation: Your easy start with Make AI Tools",
+      "author": "Make",
+      "authorUrl": "https://www.youtube.com/@itsmake",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Zapier",
+      "url": "https://www.youtube.com/watch?v=QufC08E_zjU",
+      "status": 200,
+      "title": "Zapier For Beginners Tutorial",
+      "author": "Learn Skills Daily",
+      "authorUrl": "https://www.youtube.com/@learnskillsdaily",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Langflow",
+      "url": "https://www.youtube.com/watch?v=_prClwjtPdU",
+      "status": 200,
+      "title": "🧠 Build Your First AI Agent with Langflow!",
+      "author": "Langflow",
+      "authorUrl": "https://www.youtube.com/@Langflow",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Flowise",
+      "url": "https://www.youtube.com/watch?v=tD6fwQyUIJE",
+      "status": 200,
+      "title": "Flowise AI Tutorial #1 - Introduction & Setup",
+      "author": "Leon van Zyl",
+      "authorUrl": "https://www.youtube.com/@leonvanzyl",
+      "result": "metadata_available"
+    },
+    {
+      "name": "LangChain",
+      "url": "https://www.youtube.com/watch?v=ekpnVh-l3YA",
+      "status": 200,
+      "title": "LangChain Tutorial (Python) #1: Intro & Setup",
+      "author": "Leon van Zyl",
+      "authorUrl": "https://www.youtube.com/@leonvanzyl",
+      "result": "metadata_available"
+    },
+    {
+      "name": "LlamaIndex",
+      "url": "https://www.youtube.com/watch?v=cCyYGYyCka4",
+      "status": 200,
+      "title": "Introduction to LlamaIndex with Python (2025)",
+      "author": "Alejandro AO",
+      "authorUrl": "https://www.youtube.com/@alejandro_ao",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Haystack",
+      "url": "https://www.youtube.com/watch?v=K9mDAb2Lz6Y",
+      "status": 200,
+      "title": "Build Your Own YouTube Video Summarization App with Haystack, Llama 2, Whisper, and Streamlit",
+      "author": "AI Anytime",
+      "authorUrl": "https://www.youtube.com/@AIAnytime",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Transformers",
+      "url": "https://www.youtube.com/watch?v=aeiUTRvh6yE",
+      "status": 200,
+      "title": "Hands-On Hugging Face Tutorial | Transformers, AI Pipeline, Fine Tuning LLM, GPT, Sentiment Analysis",
+      "author": "Dr. Maryam Miradi",
+      "authorUrl": "https://www.youtube.com/@maryammiradi",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Unsloth",
+      "url": "https://www.youtube.com/watch?v=Lt7KrFMcCis",
+      "status": 200,
+      "title": "How to Fine-tune LLMs with Unsloth: Complete Guide",
+      "author": "pookie",
+      "authorUrl": "https://www.youtube.com/@pookiehd",
+      "result": "metadata_available"
+    },
+    {
+      "name": "vLLM",
+      "url": "https://www.youtube.com/watch?v=ij-Gj6fXLe0",
+      "status": 200,
+      "title": "vLLM: A Beginner's Guide to Understanding and Using vLLM",
+      "author": "MLWorks",
+      "authorUrl": "https://www.youtube.com/@mlworks",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Qwen3.8-27B",
+      "url": "https://www.youtube.com/watch?v=PTuGGdDuyPI",
+      "status": 200,
+      "title": "Qwen3.8-27B & How to Serve it Fast",
+      "author": "Sam Witteveen",
+      "authorUrl": "https://www.youtube.com/@samwitteveenai",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Gemma 4 26B A4B",
+      "url": "https://www.youtube.com/watch?v=jZVBoFOJK-Q",
+      "status": 200,
+      "title": "What’s new in Gemma 4",
+      "author": "Google for Developers",
+      "authorUrl": "https://www.youtube.com/@GoogleDevelopers",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Qwen3.6-35B-A3B",
+      "url": "https://www.youtube.com/watch?v=gVU-DQeqkI0",
+      "status": 200,
+      "title": "Qwen3.6 35B-A3B Full Test – Is THIS the Best LOCAL Model Yet?",
+      "author": "Bijan Bowen",
+      "authorUrl": "https://www.youtube.com/@Bijanbowen",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Gemma 4 31B",
+      "url": "https://www.youtube.com/watch?v=jZVBoFOJK-Q",
+      "status": 200,
+      "title": "What’s new in Gemma 4",
+      "author": "Google for Developers",
+      "authorUrl": "https://www.youtube.com/@GoogleDevelopers",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Qwen3.5-9B",
+      "url": "https://www.youtube.com/watch?v=HukWl0AWgbI",
+      "status": 200,
+      "title": "How to Run Qwen 3.5 9B Locally | Full Step-by-Step Tutorial",
+      "author": "roseindiatutorials",
+      "authorUrl": "https://www.youtube.com/@roseindiatutorials",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Gemma 4 E4B",
+      "url": "https://www.youtube.com/watch?v=jZVBoFOJK-Q",
+      "status": 200,
+      "title": "What’s new in Gemma 4",
+      "author": "Google for Developers",
+      "authorUrl": "https://www.youtube.com/@GoogleDevelopers",
+      "result": "metadata_available"
+    },
+    {
+      "name": "gpt-oss-20b",
+      "url": "https://www.youtube.com/watch?v=e2sgwsC92Bc",
+      "status": 200,
+      "title": "Build a Simple AI Agent with OpenAI’s gpt-oss-20b",
+      "author": "NVIDIA Developer",
+      "authorUrl": "https://www.youtube.com/@NVIDIADeveloper",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Qwen3.5-4B",
+      "url": "https://www.youtube.com/watch?v=CqXKxdBs7IQ",
+      "status": 200,
+      "title": "Qwen 3.5 4B 🚀 Desarrollar Código en LOCAL con IA y sin GPU",
+      "author": "Nichonauta",
+      "authorUrl": "https://www.youtube.com/@nichonauta",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Gemma 4 E2B",
+      "url": "https://www.youtube.com/watch?v=jZVBoFOJK-Q",
+      "status": 200,
+      "title": "What’s new in Gemma 4",
+      "author": "Google for Developers",
+      "authorUrl": "https://www.youtube.com/@GoogleDevelopers",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Phi-4-mini-instruct",
+      "url": "https://www.youtube.com/watch?v=HQMcCa3RHZY",
+      "status": 200,
+      "title": "How-To Install Phi-4 Mini Instruct Locally and Test: Hands-on Easy Tutorial",
+      "author": "Fahd Mirza",
+      "authorUrl": "https://www.youtube.com/@fahdmirza",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Olmo 3 7B Instruct",
+      "url": "https://www.youtube.com/watch?v=x30rhcrZDbw",
+      "status": 200,
+      "title": "LLM Olmo 3: El nuevo modelo open-source que redefine el razonamiento en IA",
+      "author": "LLM Master",
+      "authorUrl": "https://www.youtube.com/@llmmaster_",
+      "result": "metadata_available"
+    },
+    {
+      "name": "gpt-oss-120b",
+      "url": "https://www.youtube.com/watch?v=dDZ4tZ9M5oA",
+      "status": 200,
+      "title": "How to Run and Use OpenAI Open Source Models GPT-OSS 120b and 20b LOCALLY",
+      "author": "United Top Tech",
+      "authorUrl": "https://www.youtube.com/@unitedtoptech6288",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Llama 3.1 8B Instruct",
+      "url": "https://www.youtube.com/watch?v=SYrZ6s2EFW4",
+      "status": 200,
+      "title": "AI for Beginners: Run Llama 3.1 8B Instruct Locally | Open-Source AI | Class 8 | Udemy Course",
+      "author": "Learn Better Today",
+      "authorUrl": "https://www.youtube.com/@LearnBetterToday-r6v",
+      "result": "metadata_available"
+    },
+    {
+      "name": "FLUX.1 schnell",
+      "url": "https://www.youtube.com/watch?v=ImWHS5Ux36E",
+      "status": 200,
+      "title": "ComfyUI Tutorial Series: Ep08 - Flux 1: Schnell and Dev Installation Guide",
+      "author": "pixaroma",
+      "authorUrl": "https://www.youtube.com/@pixaroma",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Wan2.2 TI2V 5B",
+      "url": "https://www.youtube.com/watch?v=nqWa-ASEJNU",
+      "status": 200,
+      "title": "EASY Text-to-Video with Wan 2.2 5B in ComfyUI (Beginner Tutorial)",
+      "author": "CaoCao2025",
+      "authorUrl": "https://www.youtube.com/@CaoCao2025",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Rayyan",
+      "url": "https://www.youtube.com/watch?v=1YWABilWWIg",
+      "status": 200,
+      "title": "How to do a Systematic Review | Rayyan Systematic Review Tutorial",
+      "author": "Rayyan",
+      "authorUrl": "https://www.youtube.com/@Rayyanapp",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Scholarcy",
+      "url": "https://www.youtube.com/watch?v=RIF7Q8G5ECU",
+      "status": 200,
+      "title": "Scholarcy quickstart guide",
+      "author": "Scholarcy",
+      "authorUrl": "https://www.youtube.com/@scholarcy",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Paperpal",
+      "url": "https://www.youtube.com/watch?v=3G9pPw4ErLs",
+      "status": 200,
+      "title": "From Draft to Submission - Paperpal Complete Tutorial",
+      "author": "Andy Stapleton",
+      "authorUrl": "https://www.youtube.com/@DrAndyStapleton",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Writefull",
+      "url": "https://www.youtube.com/watch?v=IfwPbKplTzQ",
+      "status": 200,
+      "title": "Writefull for Beginners - Get Ahead in Academic Writing",
+      "author": "Andy Stapleton",
+      "authorUrl": "https://www.youtube.com/@DrAndyStapleton",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Jupyter AI",
+      "url": "https://www.youtube.com/watch?v=vncSRCwn7ME",
+      "status": 200,
+      "title": "How to talk with AI in a Jupyter notebook",
+      "author": "Maxime Rivest",
+      "authorUrl": "https://www.youtube.com/@maximerivest",
+      "result": "metadata_available"
+    },
+    {
+      "name": "AutoGluon",
+      "url": "https://www.youtube.com/watch?v=Fs_ResvloQg",
+      "status": 200,
+      "title": "Train Machine Learning Models with 1 Line of Python Code using AutoGluon! (Step-by-Step Tutorial)",
+      "author": "Onur Baltaci",
+      "authorUrl": "https://www.youtube.com/@onurdatascience",
+      "result": "metadata_available"
+    },
+    {
+      "name": "Orange Data Mining",
+      "url": "https://www.youtube.com/watch?v=HXjnDIgGDuI",
+      "status": 200,
+      "title": "Getting Started with Orange 01: Welcome to Orange",
+      "author": "Orange Data Mining",
+      "authorUrl": "https://www.youtube.com/@OrangeDataMining",
+      "result": "metadata_available"
+    },
+    {
+      "name": "DeepXDE",
+      "url": "https://www.youtube.com/watch?v=h1HF3bctoxk",
+      "status": 200,
+      "title": "DeepXDE Tutorial #1: DeepXDE Setup and Overview | Physics Informed Neural Networks",
+      "author": "elastropy",
+      "authorUrl": "https://www.youtube.com/@elastropy",
+      "result": "metadata_available"
+    },
+    {
+      "name": "scikit-learn",
+      "url": "https://www.youtube.com/watch?v=CaRcRk2c8bM",
+      "status": 200,
+      "title": "Scikit-Learn for Beginners: Build Your First Machine Learning Model",
+      "author": "Udacity",
+      "authorUrl": "https://www.youtube.com/@Udacity",
+      "result": "metadata_available"
+    },
+    {
+      "name": "PyTorch",
+      "url": "https://www.youtube.com/watch?v=V_xro1bcAuA",
+      "status": 200,
+      "title": "PyTorch for Deep Learning & Machine Learning – Full Course",
+      "author": "freeCodeCamp.org",
+      "authorUrl": "https://www.youtube.com/@freecodecamp",
+      "result": "metadata_available"
+    }
+  ],
+  "tutorials": [
+    {
+      "name": "Litmaps",
+      "url": "https://docs.litmaps.com/en/articles/9082008-do-a-literature-review-with-litmaps",
+      "status": 200,
+      "finalUrl": "https://docs.litmaps.com/en/articles/9082008-do-a-literature-review-with-litmaps",
+      "title": "Do a Literature Review with Litmaps | Litmaps Help Center",
+      "result": "page_available"
+    },
+    {
+      "name": "Undermind",
+      "url": "https://library.smu.edu.sg/topics-insights/undermindai-now-available-postgraduates-faculty-and-staff",
+      "status": 200,
+      "finalUrl": "https://library.smu.edu.sg/topics-insights/undermindai-now-available-postgraduates-faculty-and-staff",
+      "title": "Undermind.ai is now available for Postgraduates, Faculty, and Staff | Singapore Management University (SMU)",
+      "result": "page_available"
+    },
+    {
+      "name": "ASReview",
+      "url": "https://asreview.github.io/asreview-academy/ASReviewLAB.html",
+      "status": 200,
+      "finalUrl": "https://asreview.github.io/asreview-academy/ASReviewLAB.html",
+      "title": "Introductory exercise to ASReview LAB – Asreview Academy",
+      "result": "page_available"
+    },
+    {
+      "name": "PaperQA2",
+      "url": "https://github.com/Future-House/paper-qa/blob/main/README.md#quickstart",
+      "status": 200,
+      "finalUrl": "https://github.com/Future-House/paper-qa/blob/main/README.md#quickstart",
+      "title": "paper-qa/README.md at main · Future-House/paper-qa · GitHub",
+      "result": "page_available"
+    }
+  ]
+}
