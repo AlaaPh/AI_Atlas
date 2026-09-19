@@ -4,23 +4,29 @@ A responsive, research-first directory of AI tools and local models. The current
 
 Research snapshot: **20 September 2026**. This is a curated directory, not a list of every AI tool. Prices, licenses, availability, and video interfaces can change.
 
+## Open the website
+
+**[Open AI Atlas](https://alaaph.github.io/AI_Atlas/)** — works directly in a modern browser on phones, tablets, and computers. No terminal, installation, or GitHub account is needed.
+
+The repository is public, and GitHub Pages publishes `main` from the repository root over HTTPS. Committed changes to the generated `index.html` deploy automatically.
+
 ## Launch with one terminal command
 
-On a desktop with **Node.js 18+ (including npm/npx), Git, and a browser** installed:
+On a desktop with **Node.js 18+ (including npm/npx) and a browser** installed:
 
 ```sh
-npx --yes github:AlaaPh/AI_Atlas
+npx --yes https://github.com/AlaaPh/AI_Atlas/archive/refs/heads/main.tar.gz
 ```
 
-This downloads the package into npm's cache, starts a local web server, and requests your default browser to open the dashboard. It prints a clickable address such as `http://127.0.0.1:4318/`. **Keep the terminal open while using the page; press Ctrl+C to stop.** If the preferred port is busy, another available port is selected and printed. No package dependencies, AI API keys, or model installation are needed.
+This downloads the GitHub source archive into npm's cache (Git is not required), starts a local web server, and requests your default browser to open the dashboard. It prints a clickable address such as `http://127.0.0.1:4318/`. **Keep the terminal open while using the page; press Ctrl+C to stop.** If the preferred port is busy, another available port is selected and printed. No package dependencies, AI API keys, or model installation are needed.
 
 The launcher uses a web address instead of a local-file association. macOS uses its system browser opener; Windows uses PowerShell with a URL-handler fallback; Linux uses `xdg-open` with `gio` as a fallback; WSL tries the Windows browser first. A working desktop browser is still required for automatic opening. For SSH, containers, or headless machines, use a browser on the same computer or configure SSH port forwarding.
 
-**If it installs but does not open:** installation alone (`npm install`) does not start the dashboard. Run the `npx` command above, or `npm start` inside a checkout. If no tab appears, paste the printed HTTP address into your browser. Opener errors are printed while the server stays available. Add `--no-open` to start only the server, or `--port 4320` to choose a fixed port. A new launcher commit can be selected explicitly with `#COMMIT_SHA` to avoid an older cached revision.
+**If it installs but does not open:** installation alone (`npm install`) does not start the dashboard. Run the `npx` command above, or `npm start` inside a checkout. If no tab appears, paste the printed HTTP address into your browser. Opener errors are printed while the server stays available. Add `--no-open` to start only the server, or `--port 4320` to choose a fixed port. A new launcher commit can be selected explicitly with a commit archive URL to avoid an older cached revision.
 
-**Access:** anyone can download a public repository; private repositories require authorized Git access. To make this command available to everyone, the owner can use **Settings → General → Danger Zone → Change repository visibility → Make public**. This exposes the repository's files and commit history. The `private` flag in `package.json` only prevents publishing to the npm registry; it does not control GitHub visibility.
+**Access:** this repository is public. Anyone can download it without GitHub repository access. The `private` flag in `package.json` only prevents publishing to the npm registry; it does not control GitHub visibility.
 
-After editing the directory, rebuild and commit `index.html`. Each downloaded package contains the snapshot at its resolved Git revision; an already open tab does not update automatically. Use an explicit commit in the command for a fixed release, for example `npx --yes github:AlaaPh/AI_Atlas#COMMIT_SHA` (replace the placeholder with an actual commit). Nothing needs to be published to npm.
+After editing the directory, rebuild and commit `index.html`. Each downloaded package contains the snapshot at its resolved Git revision; an already open tab does not update automatically. Use an explicit commit in the command for a fixed release, for example `npx --yes https://github.com/AlaaPh/AI_Atlas/archive/COMMIT_SHA.tar.gz` (replace the placeholder with an actual commit). Nothing needs to be published to npm. The archive command avoids Git-fetcher errors seen with the shorter `github:` package syntax in some npm versions.
 
 For a local checkout, run `npm start`. For phones and tablets without a terminal setup, a hosted website is the easier distribution option.
 
@@ -28,7 +34,7 @@ For a local checkout, run `npm start`. For phones and tablets without a terminal
 
 Download `index.html` and open it in a modern desktop browser. It is a self-contained file: no installation, account, API key, server, external scripts, or internet connection is required for browsing and filtering the directory. External websites and videos require internet access.
 
-The layout adapts to phones, tablets, and computers. For convenient mobile access, serve the same `index.html` from a static web host; mobile operating systems differ in their support for opening downloaded HTML. Saving source code on GitHub does not itself create a hosted website. The files are ready for GitHub Pages: choose **Settings → Pages → Deploy from a branch → main → / (root)**. An empty `.nojekyll` file lets Pages serve the static dashboard directly. Deployment is available only after Pages has been enabled for an eligible repository.
+The layout adapts to phones, tablets, and computers. For convenient mobile access, serve the same `index.html` from a static web host; mobile operating systems differ in their support for opening downloaded HTML. Saving source code on GitHub does not itself create a hosted website. GitHub Pages is enabled with **main → / (root)** as its source. An empty `.nojekyll` file lets Pages serve the static dashboard directly.
 
 A portable copy is also saved under Google Drive → PhD → Ai tools.
 

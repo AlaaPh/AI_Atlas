@@ -1,6 +1,10 @@
 AI ATLAS — PHD RESEARCH TOOL DIRECTORY
 Research snapshot: 20 September 2026
 
+Open the website directly on any modern browser:
+https://alaaph.github.io/AI_Atlas/
+
+To use a downloaded copy instead:
 1. Download AI-Tools-Dashboard.html from this Drive folder.
 2. Open it in a modern desktop browser. No installation is needed.
 3. Start with the PhD & research view and research-task shortcuts.
@@ -10,7 +14,7 @@ Research snapshot: 20 September 2026
 
 The layout adapts to phones, tablets, and computers. For mobile browsers,
 a hosted copy is easiest; support for downloaded HTML varies by device.
-The GitHub repository currently stores the project source, not a live site.
+The public GitHub repository also publishes the website via GitHub Pages.
 
 Repository: https://github.com/AlaaPh/AI_Atlas
 

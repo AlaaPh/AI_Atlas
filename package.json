@@ -20,5 +20,6 @@
   "scripts": {
     "start": "node bin/ai-atlas.cjs",
     "test:launcher": "node --test test/launcher.test.cjs"
-  }
+  },
+  "homepage": "https://alaaph.github.io/AI_Atlas/"
 }
