@@ -4,7 +4,23 @@ A responsive, research-first directory of AI tools and local models. The current
 
 Research snapshot: **20 September 2026**. This is a curated directory, not a list of every AI tool. Prices, licenses, availability, and video interfaces can change.
 
-## Open the dashboard
+## Launch with one terminal command
+
+On a desktop with **Node.js 18+ (including npm/npx), Git, and a browser** installed:
+
+```sh
+npx --yes github:AlaaPh/AI_Atlas
+```
+
+This downloads the package from this GitHub repository into npm's cache and opens the bundled dashboard in your default browser. It has no package dependencies, starts no server, and needs no AI API key or model installation. macOS uses `open`, Windows uses its URL handler, and Linux uses `xdg-open` (which must be installed in a desktop session). On remote/headless terminals, automatic opening may be unavailable; run with `--no-open` to print the local file URL instead. The local file must be on the computer where your browser runs.
+
+**Access:** this repository is currently private. Only authorized users with Git authentication can download it. To let anyone run the command without repository access, the owner can go to **Settings → General → Danger Zone → Change repository visibility → Make public**. This exposes the repository's files and commit history. The `private` flag in `package.json` only prevents publishing to the npm registry; it does not control GitHub visibility.
+
+After editing the directory, rebuild and commit `index.html`. Each downloaded package contains the snapshot at its resolved Git revision; an already open tab does not update automatically. Use an explicit commit in the command for a fixed release, for example `npx --yes github:AlaaPh/AI_Atlas#COMMIT_SHA` (replace the placeholder with an actual commit). Nothing needs to be published to npm.
+
+For a local checkout, run `npm start`. For phones and tablets without a terminal setup, a hosted website is the easier distribution option.
+
+## Open the dashboard file
 
 Download `index.html` and open it in a modern desktop browser. It is a self-contained file: no installation, account, API key, server, external scripts, or internet connection is required for browsing and filtering the directory. External websites and videos require internet access.
 
@@ -68,6 +84,7 @@ Review cadence: recheck highly ranked models and pricing monthly; audit the broa
 | File | Purpose |
 | --- | --- |
 | `index.html` | Ready-to-open, self-contained dashboard |
+| `package.json` / `bin/ai-atlas.cjs` | Dependency-free terminal launcher |
 | `ai-tools-data.json` | Editable directory and source URLs |
 | `template.html` | Responsive UI source |
 | `build.py` | Dependency-free HTML builder |
