@@ -1,11 +1,24 @@
 {
   "name": "@alaaph/ai-atlas",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "Open the AI Atlas research-tool dashboard in your browser",
-  "bin": { "ai-atlas": "bin/ai-atlas.cjs" },
-  "files": ["bin/ai-atlas.cjs", "index.html"],
-  "engines": { "node": ">=18" },
-  "repository": { "type": "git", "url": "https://github.com/AlaaPh/AI_Atlas.git" },
-  "scripts": { "start": "node bin/ai-atlas.cjs" }
+  "bin": {
+    "ai-atlas": "bin/ai-atlas.cjs"
+  },
+  "files": [
+    "bin/ai-atlas.cjs",
+    "index.html"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlaaPh/AI_Atlas.git"
+  },
+  "scripts": {
+    "start": "node bin/ai-atlas.cjs",
+    "test:launcher": "node --test test/launcher.test.cjs"
+  }
 }
